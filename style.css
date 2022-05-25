@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  font-size: 20px;
+  
+}
+
+li{
+  font-size: 20px;
+  
+}
+
+.head{
+  background: #74B4ED;
+  color: #2C46B2;
+  justify-content: space-between;
+}
+
+a{
+  background: #74B4ED;
+  color: #2C46B2;
+  text-decoration: none;
+}
+
+nav{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+nav ul{
+  flex: 3;
+  list-style: none;
+}
+
+
+#logo{
+  flex: 1;
+  flex-wrap: wrap;
+}

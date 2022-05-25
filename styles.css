@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Ubuntu+Mono:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Lobster&family=Ubuntu+Mono:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Permanent+Marker&family=Ubuntu+Mono:ital@1&display=swap');
+/*font-family: 'Lobster', cursive;
+*/
+body{
+	font-family: 'Ubuntu Mono', monospace;
+}
+
+.head{
+	background: linear-gradient(70deg, pink, skyblue);
+	width: auto;
+	height: 80px;
+}
+nav{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+ul{
+	list-style: none;
+	margin-right: 10%;
+	margin-left: 5%;
+	font-size: x-large;
+}
+h2{
+	text-align: center;
+	color:  grey;
+	font-family: 'Permanent Marker', cursive;
+
+}
+a{
+	color: white;
+	text-decoration: none;
+
+}
+h3{
+	font-family: 'Amatic SC', cursive;
+}
+.logo{
+	size: 100px 100px;
+	position: absolute;
+}
+.h1{
+	font-family: 'Lobster', cursive;
+	font-size: x-large;
+}
