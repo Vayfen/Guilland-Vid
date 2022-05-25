@@ -46,3 +46,6 @@ h3{
 p{
 	size: auto;
 }
+iframe{
+	max-width: 100%;
+}
