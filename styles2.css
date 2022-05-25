@@ -38,6 +38,7 @@ a{
 }
 h3{
 	font-family: 'Amatic SC', cursive;
+	text-align: center;
 }
 
 .h1{
@@ -45,7 +46,10 @@ h3{
 	font-size: x-large;
 }
 p{
-	size: auto;
+	align-content: center;
+}
+.txt{
+	text-align: center;
 }
 iframe{
 	max-width: 90%;
