@@ -10,7 +10,7 @@ body{
 
 .head{
 	background: linear-gradient(70deg, pink, skyblue);
-	width: auto;
+	width: 100%;
 }
 nav{
 	display: flex;
@@ -42,4 +42,7 @@ h3{
 .h1{
 	font-family: 'Lobster', cursive;
 	font-size: x-large;
+}
+p{
+	size: auto;
 }
